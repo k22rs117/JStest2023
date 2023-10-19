@@ -17,6 +17,7 @@ html,body {
 #disp1{
     font-size: x-large;
     font-family: fantasy;
+    background-color: lightgray;
 }
 
 #btn {
